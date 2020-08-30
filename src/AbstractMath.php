@@ -7,5 +7,4 @@ use Bassix\Finance\Helper\MathHelper;
 
 abstract class AbstractMath extends MathHelper
 {
-
 }

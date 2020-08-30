@@ -42,7 +42,6 @@ class Price extends Money
      * @param Currency|string  $currency based on ISO Code
      * @param string|float     $taxrate  Der Steuersatz in Prozent
      * @param bool             $hasTax   Soll eine Steuer berechnet werden?
-     * @return Price
      */
     public static function valueOf($amount, $currency, $taxrate = 0.0, $hasTax = true): Price
     {
@@ -53,7 +52,6 @@ class Price extends Money
      * Adds the given price to this one (immutable) and returns the result.
      *
      * @param Price|Money $price the money to add
-     * @return Price
      * @throws CurrencyMismatchException if the Currencies do not match
      */
     public function add($price): Price
@@ -73,7 +71,6 @@ class Price extends Money
      * Subtract the given price from this one (immutable) and returns the result.
      *
      * @param Price|Money $price the money to subtract
-     * @return Price
      * @throws CurrencyMismatchException if the Currencies do not match
      */
     public function sub($price): Price
@@ -93,7 +90,6 @@ class Price extends Money
      * Multiplies this money (immutable) with the given factor and returns the result.
      *
      * @param mixed $factor the factor to multiply with
-     * @return Price
      * @throws \InvalidArgumentException if the $factor is not numeric
      */
     public function multiply($factor): Price
@@ -117,7 +113,6 @@ class Price extends Money
     /**
      * Method for reading the amount that is actually to be calculated.
      *
-     * @return Money
      */
     public function getMoney(): Money
     {
@@ -132,7 +127,6 @@ class Price extends Money
      * Method for reading the amount that should really be calculated.
      *
      * @param bool $rounded
-     * @return string
      */
     public function getAmount($rounded = false): string
     {
@@ -176,9 +170,6 @@ class Price extends Money
         return $this->tax;
     }
 
-    /**
-     * @return Money
-     */
     public function getGross(): Money
     {
         return $this->gross;

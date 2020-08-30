@@ -87,8 +87,6 @@ class MathHelper
      *
      * @param string $number    np 120.00, 120.5555, 10,9989393
      * @param int    $precision (default:0)
-     * @return string
-     * @return string
      */
     public static function bcRound($number, $precision = 4): string
     {
@@ -124,7 +122,6 @@ class MathHelper
      * @param number|string $amountLeft
      * @param number|string $amountRight
      * @param int|string    $precision
-     * @return int
      */
     public static function bcComp($amountLeft, $amountRight, $precision = 4): int
     {
@@ -134,7 +131,6 @@ class MathHelper
     /**
      * @param number|string $amount
      * @param int|string    $precision
-     * @return int
      */
     public static function bcCompZero($amount, $precision = 4): int
     {
@@ -151,7 +147,6 @@ class MathHelper
      * Method to check if the given string or number is usable as a float value.
      *
      * @param number|string $number
-     * @return bool
      */
     public static function numberCanBeUsedAsFloat($number): bool
     {
@@ -181,11 +176,10 @@ class MathHelper
      * Get float from string
      *
      * @param string $string
-     * @return float
      */
     public static function getFloat($string): float
     {
-        if (strpos($string, ',') !== false) {
+        if (false !== strpos($string, ',')) {
             // replace dots (thousand seps) with blancs
             $string = str_replace(['.', ','], ['', '.'], $string); // replace ',' with '.'
         }
@@ -201,7 +195,6 @@ class MathHelper
      * Method to get the internal precision.
      *
      * @param int $precision
-     * @return int
      */
     protected static function getPrecisionInternal($precision = 4): int
     {

@@ -1,4 +1,5 @@
 <?php
+declare(strict_types=1);
 
 namespace Bassix\Finance\Helper;
 
@@ -18,7 +19,6 @@ class TaxCalculatorHelper extends MathHelper
      * @param float|string $grossAmount
      * @param float        $taxRate
      * @param int          $precision Integer or 0 for precession for rounding and -1 to disable rounding!
-     * @return string
      */
     public static function getNetPriceFromGross($grossAmount, $taxRate, $precision = 4): string
     {
@@ -50,11 +50,10 @@ class TaxCalculatorHelper extends MathHelper
      * @param float|string $grossAmount
      * @param float        $taxRate
      * @param int          $precision Integer or 0 for precession for rounding and -1 to disable rounding!
-     * @return string
      */
     public static function getTaxCostFromGross($grossAmount, $taxRate, $precision = 4): string
     {
-        if (bccomp($taxRate, '0.0') === 0) {
+        if (0 === bccomp($taxRate, '0.0')) {
             return '0.0';
         }
 

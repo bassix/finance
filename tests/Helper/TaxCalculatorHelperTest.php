@@ -46,31 +46,31 @@ class TaxCalculatorHelperTest extends TestCase
         return [
             0 => [
                 'expected' => ['net' => '100.0000', 'tax' => '7.0000'],
-                'actual' => ['gross' => '107.00', 'taxRate' => 7, 'precision' => 4]
+                'actual' => ['gross' => '107.00', 'taxRate' => 7, 'precision' => 4],
             ],
             1 => [
                 'expected' => ['net' => '100.0000', 'tax' => '19.0000'],
-                'actual' => ['gross' => '119.00', 'taxRate' => 19, 'precision' => 4]
+                'actual' => ['gross' => '119.00', 'taxRate' => 19, 'precision' => 4],
             ],
             2 => [
                 'expected' => ['net' => '84.0336', 'tax' => '15.9664'],
-                'actual' => ['gross' => '100.00', 'taxRate' => 19, 'precision' => 4]
+                'actual' => ['gross' => '100.00', 'taxRate' => 19, 'precision' => 4],
             ],
             3 => [
                 'expected' => ['net' => '857.1086', 'tax' => '144.8514'],
-                'actual' => ['gross' => '1001.96', 'taxRate' => 16.9, 'precision' => 4]
+                'actual' => ['gross' => '1001.96', 'taxRate' => 16.9, 'precision' => 4],
             ],
             4 => [
                 'expected' => ['net' => '29.87', 'tax' => '0.0'],
-                'actual' => ['gross' => '29.87', 'taxRate' => 0, 'precision' => 4]
+                'actual' => ['gross' => '29.87', 'taxRate' => 0, 'precision' => 4],
             ],
             5 => [
                 'expected' => ['net' => '263.7698', 'tax' => '257.6767'],
-                'actual' => ['gross' => '521.4465', 'taxRate' => '97.69', 'precision' => 4]
+                'actual' => ['gross' => '521.4465', 'taxRate' => '97.69', 'precision' => 4],
             ],
             6 => [
                 'expected' => ['net' => '63.0252', 'tax' => '11.9748'],
-                'actual' => ['gross' => '75', 'taxRate' => '19', 'precision' => 4]
+                'actual' => ['gross' => '75', 'taxRate' => '19', 'precision' => 4],
             ],
         ];
     }
