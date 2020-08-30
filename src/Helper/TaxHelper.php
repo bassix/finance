@@ -16,6 +16,7 @@ class TaxHelper
      * @param Currency|string    $currency
      * @param int                $quantity
      * @param bool               $hasTax
+     * @return Money
      */
     public static function getNetMoney($unitAmount, $taxRate, $currency, $quantity = 1, $hasTax = false): Money
     {
@@ -44,6 +45,7 @@ class TaxHelper
      * @param Currency|string    $currency
      * @param int                $quantity
      * @param bool               $hasTax
+     * @return Money
      */
     public static function getGrossMoney($unitAmount, $taxRate, $currency, $quantity = 1, $hasTax = false): Money
     {
@@ -70,6 +72,7 @@ class TaxHelper
      * @param Currency|string    $currency
      * @param int                $quantity
      * @param bool               $hasTax
+     * @return Money
      */
     public static function getTaxMoney($unitAmount, $taxRate, $currency, $quantity = 1, $hasTax = false): Money
     {

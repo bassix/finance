@@ -27,7 +27,7 @@ class Price extends Money
      * @param string|float     $taxRate  The tax rate in percent
      * @param bool             $hasTax   Should a tax be computed?
      */
-    public function __construct($amount = '0.0', $currency = 'EUR', $taxRate = '0.0', $hasTax = true)
+    public function __construct($amount = '0.0', $currency = 'EUR', $taxRate = 0.0, $hasTax = true)
     {
         parent::__construct($amount, $currency);
         $this->taxRate = $taxRate;
@@ -40,19 +40,21 @@ class Price extends Money
      *
      * @param string|int|float $amount   bcmath representation of the amount
      * @param Currency|string  $currency based on ISO Code
-     * @param string|float     $taxrate  Der Steuersatz in Prozent
-     * @param bool             $hasTax   Soll eine Steuer berechnet werden?
+     * @param string|float     $taxRate  The tax rate in percent
+     * @param bool             $hasTax   Should a tax be computed?
+     * @return Price
      */
-    public static function valueOf($amount, $currency, $taxrate = 0.0, $hasTax = true): Price
+    public static function valueOf($amount, $currency, $taxRate = 0.0, $hasTax = true): Price
     {
-        return new self($amount, $currency, $taxrate, $hasTax);
+        return new self($amount, $currency, $taxRate, $hasTax);
     }
 
     /**
      * Adds the given price to this one (immutable) and returns the result.
      *
      * @param Price|Money $price the money to add
-     * @throws CurrencyMismatchException if the Currencies do not match
+     * @return Price
+     * @throws CurrencyMismatchException if the currency do not match
      */
     public function add($price): Price
     {
@@ -71,7 +73,8 @@ class Price extends Money
      * Subtract the given price from this one (immutable) and returns the result.
      *
      * @param Price|Money $price the money to subtract
-     * @throws CurrencyMismatchException if the Currencies do not match
+     * @return Price
+     * @throws CurrencyMismatchException if the currency do not match
      */
     public function sub($price): Price
     {
@@ -89,8 +92,8 @@ class Price extends Money
     /**
      * Multiplies this money (immutable) with the given factor and returns the result.
      *
-     * @param mixed $factor the factor to multiply with
-     * @throws \InvalidArgumentException if the $factor is not numeric
+     * @param int|float|string $factor
+     * @return Price
      */
     public function multiply($factor): Price
     {
@@ -108,11 +111,10 @@ class Price extends Money
         );
     }
 
-    // -- AMOUNT -------------------------------------------------------------------------------------------------------
-
     /**
      * Method for reading the amount that is actually to be calculated.
      *
+     * @return Money
      */
     public function getMoney(): Money
     {
@@ -127,6 +129,7 @@ class Price extends Money
      * Method for reading the amount that should really be calculated.
      *
      * @param bool $rounded
+     * @return string
      */
     public function getAmount($rounded = false): string
     {

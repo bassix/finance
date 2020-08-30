@@ -100,7 +100,7 @@ return PhpCsFixer\Config::create()
         // There MUST NOT be a space after the opening parenthesis. There MUST NOT be a space before the closing parenthesis.
         'no_spaces_inside_parenthesis' => true,
         // Removes `@param` and `@return` tags that don't provide any useful information.
-        'no_superfluous_phpdoc_tags' => true,
+        'no_superfluous_phpdoc_tags' => false,
         // Remove trailing commas in list function calls.
         'no_trailing_comma_in_list_call' => true,
         // PHP single-line arrays should not have trailing comma.
@@ -116,7 +116,7 @@ return PhpCsFixer\Config::create()
         // There should not be useless `else` cases.
         'no_useless_else' => true,
         // There should not be an empty `return` statement at the end of a function.
-        'no_useless_return' => true,
+        'no_useless_return' => false,
         // In array declaration, there MUST NOT be a whitespace before each comma.
         'no_whitespace_before_comma_in_array' => true,
         // Remove trailing whitespace at the end of blank lines.

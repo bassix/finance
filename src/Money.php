@@ -122,6 +122,7 @@ class Money extends MathHelper
      * Creates a new instance with amount zero or optional and Currency None.
      *
      * @param string $amount an optional amount to use
+     * @return Money
      */
     public static function noCurrency($amount = null): Money
     {
@@ -177,6 +178,7 @@ class Money extends MathHelper
      * Adds the given money to this one (immutable) and returns the result.
      *
      * @param Money $money the money to add
+     * @return Money
      * @throws CurrencyMismatchException
      */
     public function add($money): Money
@@ -194,6 +196,7 @@ class Money extends MathHelper
      * Subtract the given money from this one (immutable) and returns the result.
      *
      * @param Money $money the money to subtract
+     * @return Money
      * @throws CurrencyMismatchException
      */
     public function sub($money): Money
@@ -210,7 +213,8 @@ class Money extends MathHelper
     /**
      * Multiplies this money (immutable) with the given factor and returns the result.
      *
-     * @param mixed $factor the factor to multiply with
+     * @param int|float $factor the factor to multiply with
+     * @return Money
      * @throws \InvalidArgumentException if the $factor is not numeric
      */
     public function multiply($factor): Money
@@ -228,6 +232,7 @@ class Money extends MathHelper
      * Divides this money (immutable) by the given factor and returns the result.
      *
      * @param mixed $factor the factor to divide by
+     * @return Money
      * @throws \InvalidArgumentException if the $factor is not numeric
      */
     public function divide($factor): Money
@@ -245,6 +250,7 @@ class Money extends MathHelper
      * Method to get a currency object by currency string.
      *
      * @param Currency|string $currency
+     * @return Currency
      * @throws \InvalidArgumentException
      */
     protected static function handleCurrencyArgument($currency = 'EUR'): Currency

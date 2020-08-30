@@ -19,18 +19,11 @@ class TaxCalculatorHelper extends MathHelper
      * @param float|string $grossAmount
      * @param float        $taxRate
      * @param int          $precision Integer or 0 for precession for rounding and -1 to disable rounding!
+     * @return string
      */
     public static function getNetPriceFromGross($grossAmount, $taxRate, $precision = 4): string
     {
-        $netAmount = bcdiv(
-            $grossAmount,
-            bcadd(
-                '1',
-                bcdiv($taxRate, '100', parent::getPrecisionInternal($precision)),
-                parent::getPrecisionInternal($precision)
-            ),
-            parent::getPrecisionInternal($precision)
-        );
+        $netAmount = bcdiv((string)$grossAmount, bcadd('1', bcdiv((string)$taxRate, '100', parent::getPrecisionInternal($precision)), parent::getPrecisionInternal($precision)), parent::getPrecisionInternal($precision));
 
         return MathHelper::bcRound($netAmount, $precision);
     }
@@ -50,16 +43,17 @@ class TaxCalculatorHelper extends MathHelper
      * @param float|string $grossAmount
      * @param float        $taxRate
      * @param int          $precision Integer or 0 for precession for rounding and -1 to disable rounding!
+     * @return string
      */
     public static function getTaxCostFromGross($grossAmount, $taxRate, $precision = 4): string
     {
-        if (0 === bccomp($taxRate, '0.0')) {
+        if (0 === bccomp((string)$taxRate, '0.0')) {
             return '0.0';
         }
 
         $taxAmount = bcdiv(
-            bcmul($grossAmount, $taxRate, parent::getPrecisionInternal($precision)),
-            bcadd('100', $taxRate, parent::getPrecisionInternal($precision)),
+            bcmul((string)$grossAmount, (string)$taxRate, parent::getPrecisionInternal($precision)),
+            bcadd('100', (string)$taxRate, parent::getPrecisionInternal($precision)),
             parent::getPrecisionInternal($precision)
         );
 

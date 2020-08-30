@@ -119,6 +119,7 @@ class Currency
 
     /**
      * @param string $code the three-letter currency code
+     * @return Currency
      */
     public static function valueOf($code = Currencies::NONE): Currency
     {
@@ -139,6 +140,7 @@ class Currency
      * Is the given code valid?
      *
      * @param string $code the three-letter currency code
+     * @return bool
      */
     public static function isValidCode($code): bool
     {
@@ -327,6 +329,7 @@ class Currency
      * Whether this and another currency are the same. Uses only the code to determine identity.
      *
      * @param Currency $currency the currency to compare to
+     * @return bool
      */
     public function equals(Currency $currency): bool
     {
@@ -373,6 +376,7 @@ class Currency
      * Adds options that depend on the language directly to the currency
      *
      * @param array $currencies
+     * @return array
      */
     public static function defineCurrencyLang($currencies): array
     {
