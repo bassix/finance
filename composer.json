@@ -1,0 +1,43 @@
+{
+    "name": "bassix/finance",
+    "description": "A basic finance source to help to handle prices related to money with currencies and taxes",
+    "keywords": [
+        "finance",
+        "money",
+        "currency",
+        "math"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adam Ibrom",
+            "email": "adam@net-i.de"
+        }
+    ],
+    "require": {
+        "php": "^7.4",
+        "ext-bcmath": "*",
+        "ext-intl": "*",
+        "symfony/yaml": "^5.1"
+    },
+    "require-dev": {
+        "friendsofphp/php-cs-fixer": "^2.16",
+        "phpunit/phpunit": "^9",
+        "phpstan/phpstan": "^0.12"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bassix\\Finance\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Bassix\\Finance\\Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "phpcs": "vendor/friendsofphp/php-cs-fixer/php-cs-fixer fix --dry-run",
+        "phpstan": "php -d memory_limit=1G vendor/phpstan/phpstan/phpstan analyse ./src ./tests --level 7",
+        "phpunit": "./vendor/bin/phpunit tests"
+    }
+}

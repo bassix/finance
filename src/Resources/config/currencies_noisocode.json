@@ -1,0 +1,44 @@
+{
+    "GGP": {
+        "code": "GGP",
+        "isoStatus": "ISO_STATUS_WITHOUT_CURRENCY_CODE",
+        "decimalDigits": 2,
+        "name": "Guernsey pound"
+    },
+    "JEP": {
+        "code": "JEP",
+        "isoStatus": "ISO_STATUS_WITHOUT_CURRENCY_CODE",
+        "decimalDigits": 2,
+        "name": "Jersey pound"
+    },
+    "IMP": {
+        "code": "IMP",
+        "isoStatus": "ISO_STATUS_WITHOUT_CURRENCY_CODE",
+        "decimalDigits": 2,
+        "name": "Isle of Man pound also Manx pound"
+    },
+    "KRI": {
+        "code": "KRI",
+        "isoStatus": "ISO_STATUS_WITHOUT_CURRENCY_CODE",
+        "decimalDigits": 2,
+        "name": "Kiribati dollar"
+    },
+    "SLS": {
+        "code": "SLS",
+        "isoStatus": "ISO_STATUS_WITHOUT_CURRENCY_CODE",
+        "decimalDigits": 2,
+        "name": "Somaliland shilling"
+    },
+    "PRB": {
+        "code": "PRB",
+        "isoStatus": "ISO_STATUS_WITHOUT_CURRENCY_CODE",
+        "decimalDigits": 2,
+        "name": "Transnistrian ruble"
+    },
+    "TVD": {
+        "code": "TVD",
+        "isoStatus": "ISO_STATUS_WITHOUT_CURRENCY_CODE",
+        "decimalDigits": 2,
+        "name": "Tuvalu dollar"
+    }
+}

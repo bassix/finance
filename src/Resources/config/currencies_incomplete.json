@@ -1,0 +1,1925 @@
+{
+    "AED": {
+        "code": "AED",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "United Arab Emirates dirham",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "AFN": {
+        "code": "AFN",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Afghan afghani",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "ALL": {
+        "code": "ALL",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Albanian lek",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "AMD": {
+        "code": "AMD",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Armenian dram",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "ANG": {
+        "code": "ANG",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Netherlands Antillean guilder",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "AOA": {
+        "code": "AOA",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Angolan kwanza",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "ARS": {
+        "code": "ARS",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Argentine peso",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "AUD": {
+        "code": "AUD",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Australian dollar",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "AWG": {
+        "code": "AWG",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Aruban florin",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "AZN": {
+        "code": "AZN",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Azerbaijani manat",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "BAM": {
+        "code": "BAM",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Bosnia and Herzegovina convertible mark",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "BBD": {
+        "code": "BBD",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Barbados dollar",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "BDT": {
+        "code": "BDT",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Bangladeshi taka",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "BGN": {
+        "code": "BGN",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Bulgarian lev",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "BHD": {
+        "code": "BHD",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 3,
+        "name": "Bahraini dinar",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "BIF": {
+        "code": "BIF",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "Burundian franc",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "BMD": {
+        "code": "BMD",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Bermudian dollar (customarily known as Bermuda dollar)",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "BND": {
+        "code": "BND",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Brunei dollar",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "BOB": {
+        "code": "BOB",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Boliviano",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "BOV": {
+        "code": "BOV",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Bolivian Mvdol (funds code)",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "BRL": {
+        "code": "BRL",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Brazilian real",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "BSD": {
+        "code": "BSD",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Bahamian dollar",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "BTN": {
+        "code": "BTN",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Bhutanese ngultrum",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "BWP": {
+        "code": "BWP",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Botswana pula",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "BYR": {
+        "code": "BYR",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "Belarusian ruble",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "BZD": {
+        "code": "BZD",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Belize dollar",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "CAD": {
+        "code": "CAD",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Canadian dollar",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "CDF": {
+        "code": "CDF",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Congolese franc",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "CHE": {
+        "code": "CHE",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "WIR Euro (complementary currency)",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "CHF": {
+        "code": "CHF",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Swiss franc",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "CHW": {
+        "code": "CHW",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "WIR Franc (complementary currency)",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "CLF": {
+        "code": "CLF",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "Unidad de Fomento (funds code)",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "CLP": {
+        "code": "CLP",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "Chilean peso",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "CNY": {
+        "code": "CNY",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Chinese yuan",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "COP": {
+        "code": "COP",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Colombian peso",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "COU": {
+        "code": "COU",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Unidad de Valor Real"
+    },
+    "CRC": {
+        "code": "CRC",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Costa Rican colon",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "CUC": {
+        "code": "CUC",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Cuban convertible peso",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "CUP": {
+        "code": "CUP",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Cuban peso",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "CVE": {
+        "code": "CVE",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "Cape Verde escudo",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "CZK": {
+        "code": "CZK",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Czech koruna",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "DJF": {
+        "code": "DJF",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "Djiboutian franc",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "DKK": {
+        "code": "DKK",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Danish krone",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "DOP": {
+        "code": "DOP",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Dominican peso"
+    },
+    "DZD": {
+        "code": "DZD",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Algerian dinar",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "EGP": {
+        "code": "EGP",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Egyptian pound",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "ERN": {
+        "code": "ERN",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Eritrean nakfa",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "ETB": {
+        "code": "ETB",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Ethiopian birr",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "FJD": {
+        "code": "FJD",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Fiji dollar",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "FKP": {
+        "code": "FKP",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Falkland Islands pound",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "GEL": {
+        "code": "GEL",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Georgian lari",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "GHS": {
+        "code": "GHS",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Ghanaian cedi",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "GIP": {
+        "code": "GIP",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Gibraltar pound",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "GMD": {
+        "code": "GMD",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Gambian dalasi",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "GNF": {
+        "code": "GNF",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "Guinean franc",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "GTQ": {
+        "code": "GTQ",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Guatemalan quetzal",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "GYD": {
+        "code": "GYD",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Guyanese dollar",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "HKD": {
+        "code": "HKD",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Hong Kong dollar",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "HNL": {
+        "code": "HNL",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Honduran lempira",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "HRK": {
+        "code": "HRK",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Croatian kuna",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "HTG": {
+        "code": "HTG",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Haitian gourde",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "HUF": {
+        "code": "HUF",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Hungarian forint",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "IDR": {
+        "code": "IDR",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Indonesian rupiah",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "ILS": {
+        "code": "ILS",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Israeli new sheqel",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "INR": {
+        "code": "INR",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Indian rupee",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "IQD": {
+        "code": "IQD",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 3,
+        "name": "Iraqi dinar",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "IRR": {
+        "code": "IRR",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "Iranian rial",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "ISK": {
+        "code": "ISK",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "Icelandic kr\u00f3na",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "JMD": {
+        "code": "JMD",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Jamaican dollar",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "JOD": {
+        "code": "JOD",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 3,
+        "name": "Jordanian dinar",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "JPY": {
+        "code": "JPY",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "Japanese yen",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "KES": {
+        "code": "KES",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Kenyan shilling",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "KGS": {
+        "code": "KGS",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Kyrgyzstani som",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "KHR": {
+        "code": "KHR",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Cambodian riel",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "KMF": {
+        "code": "KMF",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "Comoro franc",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "KPW": {
+        "code": "KPW",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "North Korean won",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "KRW": {
+        "code": "KRW",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "South Korean won",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "KWD": {
+        "code": "KWD",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 3,
+        "name": "Kuwaiti dinar",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "KYD": {
+        "code": "KYD",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Cayman Islands dollar",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "KZT": {
+        "code": "KZT",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Kazakhstani tenge",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "LAK": {
+        "code": "LAK",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "Lao kip",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "LBP": {
+        "code": "LBP",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "Lebanese pound",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "LKR": {
+        "code": "LKR",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Sri Lankan rupee",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "LRD": {
+        "code": "LRD",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Liberian dollar",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "LSL": {
+        "code": "LSL",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Lesotho loti",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "LTL": {
+        "code": "LTL",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Lithuanian litas",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "LVL": {
+        "code": "LVL",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Latvian lats",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "LYD": {
+        "code": "LYD",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 3,
+        "name": "Libyan dinar",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "MAD": {
+        "code": "MAD",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Moroccan dirham",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "MDL": {
+        "code": "MDL",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Moldovan leu",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "MGA": {
+        "code": "MGA",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "Malagasy ariary",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "MKD": {
+        "code": "MKD",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Macedonian denar",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "MMK": {
+        "code": "MMK",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "Myanma kyat",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "MNT": {
+        "code": "MNT",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Mongolian tugrik",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "MOP": {
+        "code": "MOP",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Macanese pataca",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "MRO": {
+        "code": "MRO",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "Mauritanian ouguiya",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "MUR": {
+        "code": "MUR",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Mauritian rupee",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "MVR": {
+        "code": "MVR",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Maldivian rufiyaa",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "MWK": {
+        "code": "MWK",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Malawian kwacha",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "MXN": {
+        "code": "MXN",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Mexican peso",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "MXV": {
+        "code": "MXV",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Mexican Unidad de Inversion (UDI) (funds code)",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "MYR": {
+        "code": "MYR",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Malaysian ringgit",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "MZN": {
+        "code": "MZN",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Mozambican metical",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "NAD": {
+        "code": "NAD",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Namibian dollar",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "NGN": {
+        "code": "NGN",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Nigerian naira",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "NIO": {
+        "code": "NIO",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Nicaraguan c\u00f3rdoba",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "NOK": {
+        "code": "NOK",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Norwegian krone",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "NPR": {
+        "code": "NPR",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Nepalese rupee",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "NZD": {
+        "code": "NZD",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "New Zealand dollar",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "OMR": {
+        "code": "OMR",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 3,
+        "name": "Omani rial",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "PAB": {
+        "code": "PAB",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Panamanian balboa",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "PEN": {
+        "code": "PEN",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Peruvian nuevo sol",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "PGK": {
+        "code": "PGK",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Papua New Guinean kina",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "PHP": {
+        "code": "PHP",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Philippine peso",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "PKR": {
+        "code": "PKR",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Pakistani rupee",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "PLN": {
+        "code": "PLN",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Polish z\u0142oty",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "PYG": {
+        "code": "PYG",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "Paraguayan guaran\u00ed",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "QAR": {
+        "code": "QAR",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Qatari riyal",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "RON": {
+        "code": "RON",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Romanian new leu",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "RSD": {
+        "code": "RSD",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Serbian dinar",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "RUB": {
+        "code": "RUB",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Russian rouble",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "RWF": {
+        "code": "RWF",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "Rwandan franc",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "SAR": {
+        "code": "SAR",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Saudi riyal",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "SBD": {
+        "code": "SBD",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Solomon Islands dollar",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "SCR": {
+        "code": "SCR",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Seychelles rupee",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "SDG": {
+        "code": "SDG",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Sudanese pound",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "SEK": {
+        "code": "SEK",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Swedish krona\/kronor",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "SGD": {
+        "code": "SGD",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Singapore dollar",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "SHP": {
+        "code": "SHP",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Saint Helena pound",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "SLL": {
+        "code": "SLL",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "Sierra Leonean leone",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "SOS": {
+        "code": "SOS",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Somali shilling",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "SRD": {
+        "code": "SRD",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Surinamese dollar",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "SSP": {
+        "code": "SSP",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "South Sudanese pound",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "STD": {
+        "code": "STD",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe dobra",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "SYP": {
+        "code": "SYP",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Syrian pound",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "SZL": {
+        "code": "SZL",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Swazi lilangeni",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "THB": {
+        "code": "THB",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Thai baht",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "TJS": {
+        "code": "TJS",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Tajikistani somoni",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "TMT": {
+        "code": "TMT",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Turkmenistani manat",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "TND": {
+        "code": "TND",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 3,
+        "name": "Tunisian dinar",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "TOP": {
+        "code": "TOP",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Tongan pa\u02bbanga",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "TRY": {
+        "code": "TRY",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Turkish lira",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "TTD": {
+        "code": "TTD",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Trinidad and Tobago dollar",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "TWD": {
+        "code": "TWD",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "New Taiwan dollar",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "TZS": {
+        "code": "TZS",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Tanzanian shilling",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+    },
+    "UAH": {
+        "code": "UAH",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Ukrainian hryvnia",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+    },
+    "UGX": {
+        "code": "UGX",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Ugandan shilling",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+    },
+    "USN": {
+        "code": "USN",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "United States dollar (next day) (funds code)",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "USS": {
+        "code": "USS",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "United States dollar (same day) (funds code) (one source[who?] claims it is no longer used, but it is still on the ISO 4217-MA list)",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "UYI": {
+        "code": "UYI",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "Uruguay Peso en Unidades Indexadas (URUIURUI) (funds code)",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "UYU": {
+        "code": "UYU",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Uruguayan peso",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "UZS": {
+        "code": "UZS",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Uzbekistan som",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "VEF": {
+        "code": "VEF",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Venezuelan bol\u00edvar fuerte",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "VND": {
+        "code": "VND",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "Vietnamese \u0111\u1ed3ng",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "VUV": {
+        "code": "VUV",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "Vanuatu vatu",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "WST": {
+        "code": "WST",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Samoan tala",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "XAF": {
+        "code": "XAF",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "CFA franc BEAC",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "XAG": {
+        "code": "XAG",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "Silver (one troy ounce)",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "XAU": {
+        "code": "XAU",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "Gold (one troy ounce)",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "XBA": {
+        "code": "XBA",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "European Composite Unit (EURCO) (bond market unit)",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "XBB": {
+        "code": "XBB",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "European Monetary Unit (E.M.U.-6) (bond market unit)",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "XBC": {
+        "code": "XBC",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "European Unit of Account 9 (E.U.A.-9) (bond market unit)",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "XBD": {
+        "code": "XBD",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "European Unit of Account 17 (E.U.A.-17) (bond market unit)",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "XCD": {
+        "code": "XCD",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "East Caribbean dollar",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "XDR": {
+        "code": "XDR",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "Special drawing rights",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "XFU": {
+        "code": "XFU",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "UIC franc (special settlement currency)",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "XOF": {
+        "code": "XOF",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "CFA Franc BCEAO",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "XPD": {
+        "code": "XPD",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "Palladium (one troy ounce)",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "XPF": {
+        "code": "XPF",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "CFP franc",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "XPT": {
+        "code": "XPT",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "Platinum (one troy ounce)",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "XTS": {
+        "code": "XTS",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "Code reserved for testing purposes",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "XXX": {
+        "code": "XXX",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 0,
+        "name": "No currency",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "YER": {
+        "code": "YER",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Yemeni rial",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "ZAR": {
+        "code": "ZAR",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "South African rand",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "ZMK": {
+        "code": "ZMK",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Zambian kwacha",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    },
+    "ZWL": {
+        "code": "ZWL",
+        "isoStatus": "ISO_STATUS_ACTIVE",
+        "decimalDigits": 2,
+        "name": "Zimbabwe dollar",
+        "decimalSeparator": ".",
+        "thousandsSeparator": ",",
+        "formatTemplate": "{AMT} {SYMBOL}",
+        "symbol": "?"
+
+    }
+}

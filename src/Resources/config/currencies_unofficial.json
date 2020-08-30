@@ -1,0 +1,8 @@
+{
+    "BTC": {
+        "code": "BTC",
+        "isoStatus": "ISO_STATUS_UNOFFICIAL",
+        "decimalDigits": 0,
+        "name": "Bitcoin"
+    }
+}

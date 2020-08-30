@@ -1,0 +1,560 @@
+{
+    "ADF": {
+        "code": "ADF",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 2,
+        "name": "Andorran franc (1:1 peg to the French franc)"
+    },
+    "ADP": {
+        "code": "ADP",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Andorran peseta (1:1 peg to the Spanish peseta)"
+    },
+    "ATS": {
+        "code": "ATS",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 2,
+        "name": "Austrian schilling"
+    },
+    "BEF": {
+        "code": "BEF",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 1,
+        "name": "Belgian franc (currency union with LUF)"
+    },
+    "CYP": {
+        "code": "CYP",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 2,
+        "name": "Cypriot pound"
+    },
+    "DEM": {
+        "code": "DEM",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 2,
+        "name": "German mark"
+    },
+    "EEK": {
+        "code": "EEK",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 2,
+        "name": "Estonian kroon"
+    },
+    "ESP": {
+        "code": "ESP",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Spanish peseta"
+    },
+    "FIM": {
+        "code": "FIM",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 2,
+        "name": "Finnish markka"
+    },
+    "FRF": {
+        "code": "FRF",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 2,
+        "name": "French franc"
+    },
+    "GRD": {
+        "code": "GRD",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Greek drachma"
+    },
+    "IEP": {
+        "code": "IEP",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 2,
+        "name": "Irish pound (punt in Irish language)"
+    },
+    "ITL": {
+        "code": "ITL",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Italian lira"
+    },
+    "LUF": {
+        "code": "LUF",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 1,
+        "name": "Luxembourg franc (currency union with BEF)"
+    },
+    "MCF": {
+        "code": "MCF",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 1,
+        "name": "Monegasque franc (currency union with FRF)"
+    },
+    "MAF": {
+        "code": "MAF",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Moroccan franc"
+    },
+    "MTL": {
+        "code": "MTL",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 2,
+        "name": "Maltese lira"
+    },
+    "NLG": {
+        "code": "NLG",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 2,
+        "name": "Netherlands guilder"
+    },
+    "PTE": {
+        "code": "PTE",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Portuguese escudo"
+    },
+    "SIT": {
+        "code": "SIT",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 1,
+        "name": "Slovenian tolar"
+    },
+    "SKK": {
+        "code": "SKK",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 1,
+        "name": "Slovak koruna"
+    },
+    "SML": {
+        "code": "SML",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "San Marinese lira (currency union with ITL and VAL)"
+    },
+    "VAL": {
+        "code": "VAL",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Vatican lira (currency union with ITL and SML)"
+    },
+    "XEU": {
+        "code": "XEU",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "European Currency Unit (1 XEU = 1 EUR)"
+    },
+    "AFA": {
+        "code": "AFA",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Afghan afghani"
+    },
+    "AON": {
+        "code": "AON",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Angolan new kwanza"
+    },
+    "AOR": {
+        "code": "AOR",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Angolan kwanza readjustado"
+    },
+    "ARL": {
+        "code": "ARL",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 2,
+        "name": "Argentine peso ley"
+    },
+    "ARP": {
+        "code": "ARP",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 2,
+        "name": "Argentine peso argentino"
+    },
+    "ARA": {
+        "code": "ARA",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 2,
+        "name": "Argentine austral"
+    },
+    "AZM": {
+        "code": "AZM",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Azerbaijani manat"
+    },
+    "BGL": {
+        "code": "BGL",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 2,
+        "name": "Bulgarian lev A\/99"
+    },
+    "BOP": {
+        "code": "BOP",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 2,
+        "name": "Bolivian peso"
+    },
+    "BRB": {
+        "code": "BRB",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 2,
+        "name": "Brazilian cruzeiro novo"
+    },
+    "BRC": {
+        "code": "BRC",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 2,
+        "name": "Brazilian cruzado"
+    },
+    "BRE": {
+        "code": "BRE",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 2,
+        "name": "Brazilian cruzeiro"
+    },
+    "BRN": {
+        "code": "BRN",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 2,
+        "name": "Brazilian cruzado novo"
+    },
+    "BRR": {
+        "code": "BRR",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 2,
+        "name": "Brazilian cruzeiro real"
+    },
+    "CLE": {
+        "code": "CLE",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Chilean escudo"
+    },
+    "CSD": {
+        "code": "CSD",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 2,
+        "name": "Serbian dinar"
+    },
+    "CSK": {
+        "code": "CSK",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Czechoslovak koruna"
+    },
+    "DDM": {
+        "code": "DDM",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "East German Mark of the GDR (East Germany)"
+    },
+    "ECS": {
+        "code": "ECS",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Ecuadorian sucre"
+    },
+    "ECV": {
+        "code": "ECV",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Ecuador Unidad de Valor Constante (funds code) (discontinued)"
+    },
+    "GQE": {
+        "code": "GQE",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Equatorial Guinean ekwele"
+    },
+    "ESA": {
+        "code": "ESA",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Spanish peseta (account A)"
+    },
+    "ESB": {
+        "code": "ESB",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Spanish peseta (account B)"
+    },
+    "GNE": {
+        "code": "GNE",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Guinean syli"
+    },
+    "GHC": {
+        "code": "GHC",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Ghanaian cedi"
+    },
+    "GWP": {
+        "code": "GWP",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Guinea-Bissau peso"
+    },
+    "ILP": {
+        "code": "ILP",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 3,
+        "name": "Israeli lira"
+    },
+    "ILR": {
+        "code": "ILR",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 2,
+        "name": "Israeli shekel"
+    },
+    "ISJ": {
+        "code": "ISJ",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Icelandic old krona"
+    },
+    "LAJ": {
+        "code": "LAJ",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Lao kip"
+    },
+    "MGF": {
+        "code": "MGF",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Malagasy franc"
+    },
+    "MKN": {
+        "code": "MKN",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Old Macedonian denar A\/93"
+    },
+    "MLF": {
+        "code": "MLF",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Mali franc"
+    },
+    "MVQ": {
+        "code": "MVQ",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Maldivian rupee"
+    },
+    "MXP": {
+        "code": "MXP",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Mexican peso"
+    },
+    "MZM": {
+        "code": "MZM",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Mozambican metical"
+    },
+    "NFD": {
+        "code": "NFD",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 2,
+        "name": "Newfoundland dollar"
+    },
+    "PEH": {
+        "code": "PEH",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Peruvian sol"
+    },
+    "PEI": {
+        "code": "PEI",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Peruvian inti"
+    },
+    "PLZ": {
+        "code": "PLZ",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Polish zloty A\/94"
+    },
+    "ROL": {
+        "code": "ROL",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Romanian leu A\/05"
+    },
+    "RUR": {
+        "code": "RUR",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Russian rouble A\/97"
+    },
+    "SDD": {
+        "code": "SDD",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Sudanese dinar"
+    },
+    "SDP": {
+        "code": "SDP",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Sudanese old pound"
+    },
+    "SRG": {
+        "code": "SRG",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Suriname guilder"
+    },
+    "SUR": {
+        "code": "SUR",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Soviet Union rouble"
+    },
+    "SVC": {
+        "code": "SVC",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 2,
+        "name": "Salvadoran col\u00f3n"
+    },
+    "TJR": {
+        "code": "TJR",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Tajikistani ruble"
+    },
+    "TMM": {
+        "code": "TMM",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Turkmenistani manat"
+    },
+    "TRL": {
+        "code": "TRL",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Turkish lira A\/05"
+    },
+    "UAK": {
+        "code": "UAK",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Ukrainian karbovanets"
+    },
+    "UGS": {
+        "code": "UGS",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Ugandan shilling A\/87"
+    },
+    "UYN": {
+        "code": "UYN",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Uruguay old peso"
+    },
+    "VEB": {
+        "code": "VEB",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 2,
+        "name": "Venezuelan bol\u00edvar"
+    },
+    "XFO": {
+        "code": "XFO",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "Gold franc (special settlement currency)"
+    },
+    "YDD": {
+        "code": "YDD",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "South Yemeni dinar"
+    },
+    "YUD": {
+        "code": "YUD",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 2,
+        "name": "Yugoslav dinar"
+    },
+    "YUN": {
+        "code": "YUN",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 2,
+        "name": "Yugoslav dinar"
+    },
+    "YUR": {
+        "code": "YUR",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 2,
+        "name": "Yugoslav dinar"
+    },
+    "YUO": {
+        "code": "YUO",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 2,
+        "name": "Yugoslav dinar"
+    },
+    "YUG": {
+        "code": "YUG",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 2,
+        "name": "Yugoslav dinar"
+    },
+    "YUM": {
+        "code": "YUM",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 2,
+        "name": "Yugoslav dinar"
+    },
+    "ZAL": {
+        "code": "ZAL",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 0,
+        "name": "South African financial rand (funds code) (discontinued)"
+    },
+    "ZRN": {
+        "code": "ZRN",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 2,
+        "name": "Za\u00efrean new za\u00efre"
+    },
+    "ZRZ": {
+        "code": "ZRZ",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 3,
+        "name": "Za\u00efrean za\u00efre"
+    },
+    "ZWC": {
+        "code": "ZWC",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 2,
+        "name": "Rhodesian dollar"
+    },
+    "ZWD": {
+        "code": "ZWD",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 2,
+        "name": "Zimbabwean dollar A\/06"
+    },
+    "ZWN": {
+        "code": "ZWN",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 2,
+        "name": "Zimbabwean dollar A\/08"
+    },
+    "ZWR": {
+        "code": "ZWR",
+        "isoStatus": "ISO_STATUS_HISTORICAL",
+        "decimalDigits": 2,
+        "name": "Zimbabwean dollar A\/09"
+    }
+}

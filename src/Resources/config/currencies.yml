@@ -1,0 +1,47 @@
+currencies:
+  EUR:
+    code: "EUR"
+    isoStatus: "ISO_STATUS_ACTIVE"
+    decimalDigits: 2
+    name: "Euro"
+    lang:
+      de:
+        decimalSeparator: ","
+        thousandsSeparator: "."
+        formatTemplate: "{AMT} {SYMBOL}"
+      en:
+        decimalSeparator: "."
+        thousandsSeparator: ","
+        formatTemplate: "{SYMBOL}{AMT}"
+    symbol: "€"
+  GBP:
+    code: "GBP"
+    isoStatus: "ISO_STATUS_ACTIVE"
+    decimalDigits: 2
+    name: "Pound sterling"
+    lang:
+      de:
+        decimalSeparator: ","
+        thousandsSeparator: "."
+        formatTemplate: "{AMT} {SYMBOL}"
+      en:
+        decimalSeparator: "."
+        thousandsSeparator: ","
+        formatTemplate: "{SYMBOL}{AMT}"
+    symbol: "£"
+  USD:
+    code: "USD"
+    isoStatus: "ISO_STATUS_ACTIVE"
+    decimalDigits: 2
+    name: "United States dollar"
+    lang:
+      de:
+        decimalSeparator: ","
+        thousandsSeparator: "."
+        formatTemplate: "{AMT} {SYMBOL}"
+      en:
+        decimalSeparator: "."
+        thousandsSeparator: ","
+        formatTemplate: "{SYMBOL}{AMT}"
+    formatTemplate: "{SYMBOL}{AMT}"
+    symbol: "$"

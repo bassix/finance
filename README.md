@@ -1,2 +1,3 @@
-# finance
-Resources to help to map prices, money, currencies and taxes
+# bassix finance
+
+This small library is for handling finances consisting of prices, money, currencies and taxes.
