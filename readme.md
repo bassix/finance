@@ -12,7 +12,7 @@ cd voucher-service
 _**Note:** This project is based on the [GitFlow](http://nvie.com/posts/a-successful-git-branching-model/) branching model and workflow._
 
 ## Code quality tools
-`
+
 Run [PHPUnit](https://phpunit.de/) tests:
 
 ```bash
