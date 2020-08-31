@@ -39,7 +39,7 @@
         }
     },
     "scripts": {
-        "phpcs": "vendor/friendsofphp/php-cs-fixer/php-cs-fixer fix --dry-run",
+        "phpcs": "./vendor/bin/php-cs-fixer fix --dry-run",
         "phpstan": "php -d memory_limit=1G ./vendor/bin/phpstan analyse ./src ./tests --level 7",
         "phpunit": "./vendor/bin/phpunit tests"
     }
