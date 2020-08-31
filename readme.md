@@ -22,13 +22,13 @@ Run [PHPUnit](https://phpunit.de/) tests:
 Run [phpstan](https://github.com/phpstan/phpstan) to make statical analyse of the code. (Level from 0 to 7, where 0 is the most loose, 7 is the strongest. 0 is default):
 
 ```bash
-./vendor/phpstan/phpstan/phpstan analyse --level 7
+./vendor/bin/phpstan analyse ./src ./tests --level 7
 ```
 
 Run [php-cs-fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) to fix errors in code (use `--dry-run` option only to see errors):
 
 ```bash
-./vendor/friendsofphp/php-cs-fixer/php-cs-fixer fix
+./vendor/bin/php-cs-fixer fix
 ```
 
 Documentation and constructor with more detailed information could be found at [https://mlocati.github.io/php-cs-fixer-configurator](https://mlocati.github.io/php-cs-fixer-configurator).
