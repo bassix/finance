@@ -1,6 +1,6 @@
 {
     "name": "bassix/finance",
-    "description": "A basic finance source to help to handle prices related to money with currencies and taxes",
+    "description": "This is a package written in PHP for handling finances consisting of prices, money, currencies and taxes.",
     "keywords": [
         "finance",
         "money",
