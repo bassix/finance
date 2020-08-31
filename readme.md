@@ -5,8 +5,8 @@
 To get involved into the development of this project you need to get a local copy of this repository:
 
 ```bash
-git clone git@github.com:bassix/voucher-service.git
-cd voucher-service
+git clone git@github.com:bassix/finance.git
+cd finance
 ```
 
 _**Note:** This project is based on the [GitFlow](http://nvie.com/posts/a-successful-git-branching-model/) branching model and workflow._
